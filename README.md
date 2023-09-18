@@ -1,2 +1,2 @@
-# ysyx-rv64imac-a
-一生一芯 RISC-V64IMAC 顺序处理器核代码仓库
+# ysyx-rv64imac-s
+一生一芯 RISC-V64IMAC 乱序处理器核代码仓库
